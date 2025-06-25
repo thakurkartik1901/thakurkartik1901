@@ -65,7 +65,6 @@ _Assistant System Engineer – Manual Testing_
 ### 📚 Education
 
 🎓 **B.Tech – National Institute of Technology, Hamirpur** (2012–2016)  
-Discipline: [Your Branch Here if needed]
 
 ---
 
