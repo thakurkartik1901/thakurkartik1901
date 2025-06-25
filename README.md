@@ -70,13 +70,13 @@ _Assistant System Engineer – Manual Testing_
 
 ### 🧪 GitHub Projects
 
-- 🔸 [**ArcGIS Geofence Map**](#)  
+- 🔸 [**ArcGIS Geofence Map**](https://github.com/thakurkartik1901/arcgismap)  
   Draw and manage geofences interactively using ArcGIS and Angular.
 
-- 🔸 [**React Native RichText**](#)  
+- 🔸 [**React Native RichText**](https://github.com/thakurkartik1901/richtext)  
   A React Native component to support rich text rendering, inspired by Flutter.
 
-- 🔸 [**React Native Chips**](#)  
+- 🔸 [**React Native Chips**](https://github.com/thakurkartik1901/chips)  
   A component library for chip selections – single/multi-select UI elements.
 
 ---
