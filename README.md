@@ -8,7 +8,7 @@
 
 ### 💼 About Me
 
-I'm a **Frontend Developer** with over **7 years** of experience crafting robust, scalable, and user-centric applications. I thrive in high-impact environments where I'm challenged to build performant interfaces and solve real-world problems using feedback loops and data-driven decisions.
+I'm a **Frontend Developer** with over **8 years** of experience crafting robust, scalable, and user-centric applications. I thrive in high-impact environments where I'm challenged to build performant interfaces and solve real-world problems using feedback loops and data-driven decisions.
 
 - 🔭 Currently working on: **Milkbasket** @ Reliance Retail  
 - 📍 Based in: **Gurugram, India**
