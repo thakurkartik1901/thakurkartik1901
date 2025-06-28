@@ -73,6 +73,9 @@ _Assistant System Engineer – Manual Testing_
 - 🔸 [**ArcGIS Geofence Map**](https://github.com/thakurkartik1901/arcgismap)  
   Draw and manage geofences interactively using ArcGIS and Angular.
 
+- 🔸 [**Flutter Easy Rider**](https://github.com/thakurkartik1901/easy-rider)  
+  A comprehensive Flutter-based rider application that enables drivers to manage rides, view assignments, and handle customer deliveries efficiently.
+  
 - 🔸 [**React Native RichText**](https://github.com/thakurkartik1901/richtext)  
   A React Native component to support rich text rendering, inspired by Flutter.
 
