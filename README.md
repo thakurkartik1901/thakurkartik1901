@@ -88,6 +88,7 @@ _Assistant System Engineer – Manual Testing_
 
 - 📧 Email: [thakurkartik23@gmail.com](mailto:thakurkartik23@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kartik-thakur-a576ab115](https://linkedin.com/in/kartik-thakur-a576ab115)
+- 💻 GitHub: [github.com/thakurkartik1901](https://github.com/thakurkartik1901)
 
 ---
 
